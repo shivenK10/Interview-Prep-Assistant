@@ -110,9 +110,5 @@ All operations are logged to `Logs/` directory with timestamps and rotation (5MB
 ## Requirements
 
 - Python 3.8+
-- macOS/Linux (MPS/CUDA support for faster inference)
+- macOS/Linux/Windows (MPS/CUDA support for faster inference)
 - 8GB+ RAM for model loading
-
-## License
-
-MIT
