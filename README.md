@@ -101,6 +101,7 @@ Type `quit` to exit.
 ├── Logs/                      # Log files
 ├── embeddings/                # Embeddings cache
 └── vector_stores/qdrant/      # Vector database
+└── raw_data/                  # Raw data (pdfs/screenshots)
 ```
 
 ## Logging
